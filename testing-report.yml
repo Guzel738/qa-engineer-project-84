@@ -24,10 +24,6 @@
   status: fail
 
 - summary: |
-    Сброс выбранной категории товара
-  status: fail
-
-- summary: |
     Фильтрация товаров по бренду
   status: fail
 
