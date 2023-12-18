@@ -25,10 +25,6 @@ test-cases:
     status: fail
   
   - summary: |
-      Сброс выбранной категории товара
-    status: pass
-  
-  - summary: |
       Фильтрация товаров по бренду
     status: fail
   
